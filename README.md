@@ -1,2 +1,1 @@
-# capStone2
-2nd Guided Capstone (w/Mentor)
+Manually reviewing an applicant for a credit card can be a long and slow process. Multiple factors are taken into account to determine if the applicant will be approved or rejected for credit. Credit score cards are common to use in the financial industry. It uses the personal information of the applicant to predict the probability of defaulting in the future, and credit borrowings. Build a machine learning model that will determine if an applicant is a ‘good’ or ‘bad’ based on the given data in the dataset. The definition of ‘good’ and ‘bad’ is not predefined.
